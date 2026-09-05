@@ -10,10 +10,9 @@ Conducted at **Renmin University of China in 2022–2023**, the team combined a 
 
 I am **Jingfan Xin**, a member of the research team. My main responsibilities were **quantitative-method research and design, data processing and analysis**.
 
-- Researched quantitative approaches and helped design the questionnaire and information experiment.
+- Researched and designed quantitative methods for analysing retraining willingness.
 - Organised, cleaned and prepared survey data for statistical analysis.
 - Implemented Python random forest models and performed regression analysis to examine factors associated with retraining willingness.
-- Interpreted the analytical findings and contributed to the research report.
 
 The midterm report specifically records my role in data analysis and model construction, including logistic stepwise regression. [Contribution evidence](docs/PROVENANCE.md)
 
