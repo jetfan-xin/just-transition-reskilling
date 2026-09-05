@@ -49,7 +49,7 @@ The source manifest and audit utilities document what was checked; they are not 
 
 The original research was a team effort. Repository maintenance by Jingfan Xin does not imply sole ownership of questionnaires, team reports, participant data or third-party publications. No blanket open-source licence is assigned to those materials.
 
-The repository was uploaded privately for review. Before making it publicly accessible, confirm the intended scope of disclosure and any applicable team or institutional requirements. A private link is not accessible to an unauthorised recruiter; public portfolio sharing is a separate decision.
+The repository is public at Jingfan Xin's request. Recruiters can access the English project overview and supporting documentation without a GitHub invitation. Public access covers only the curated repository contents; original reports, respondent-level data, interview materials and the private source-path index remain excluded. Repository visibility does not grant redistribution rights to those original materials.
 
 ## External methodological references
 
