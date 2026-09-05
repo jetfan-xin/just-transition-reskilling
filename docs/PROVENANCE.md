@@ -8,6 +8,8 @@ Original files were inspected read-only. No participant data or source-report bi
 
 ## Evidence for Jingfan Xin's role
 
+Jingfan's clarification on 5 September 2026 identifies her main responsibilities as **quantitative-method research and design, data processing and analysis**. She also explicitly confirmed her participation in questionnaire cleaning, Python random forest modelling, regression analysis, questionnaire and experimental design, and report writing. This is the organising emphasis of the README; the contemporaneous report provides supporting evidence below.
+
 The midterm report's member-responsibility section, PDF pages 23–24, identifies Jingfan Xin as primarily responsible for data collection and organisation, questionnaire cleaning and analysis, and model construction. Its narrative specifically describes her contribution to the logistic stepwise regression model. It also records primary/shared responsibilities for questionnaire design and distribution, literature research, consultation and staged report writing. [S02]
 
 This supports a substantive modelling and data-analysis role. It does not identify Jingfan as the overall project leader or establish sole authorship of every algorithm and final result. Field recruitment and respondent liaison were led by another team member, with Jingfan in a supporting role. The project findings and final report are collaborative outputs.
@@ -33,7 +35,7 @@ Early proposals and teaching references were not treated as evidence that a meth
 
 - **Study setting and scope:** supported by the reports and timeline.
 - **655 retained records and arm counts:** supported by both the report and a read-only aggregate check of S08.
-- **Personal data/modelling responsibilities:** explicitly supported by S02.
+- **Personal contribution:** quantitative-method research/design, data processing, Python random forest modelling, regression analysis, questionnaire/experimental design and report writing confirmed by Jingfan; contemporaneous data/modelling and related responsibilities supported by S02. This confirmation establishes the stated role, not independent reproduction of the retained model metrics.
 - **Python/scikit-learn random forests and jieba/TF-IDF/K-means:** described in the final report; a runnable historical implementation was not located.
 - **Model performance:** conflicting source versions are retained separately, not endorsed as independently reproduced scores.
 - **Project distinction or completion grade:** no award claim is made here without a verified supporting record.

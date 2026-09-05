@@ -8,9 +8,14 @@ Conducted at **Renmin University of China in 2022–2023**, the team combined a 
 
 ## My contribution
 
-I am **Jingfan Xin**, a member of the research team. I took primary responsibility for data collection and organisation, questionnaire cleaning and analysis, and model construction. I also co-designed the questionnaire and contributed to the literature review and research reports. The midterm report specifically records my contribution to constructing the logistic stepwise regression model. [Contribution evidence](docs/PROVENANCE.md)
+I am **Jingfan Xin**, a member of the research team. My main responsibilities were **quantitative-method research and design, data processing and analysis**.
 
-The work connected a practical energy-sector question with hands-on data preparation, statistical analysis and interdisciplinary research. The completed team's analysis extended to random forests and Chinese text analysis; the methods below describe the study as a whole.
+- Researched quantitative approaches and helped design the questionnaire and information experiment.
+- Organised, cleaned and prepared survey data for statistical analysis.
+- Implemented Python random forest models and performed regression analysis to examine factors associated with retraining willingness.
+- Interpreted the analytical findings and contributed to the research report.
+
+The midterm report specifically records my role in data analysis and model construction, including logistic stepwise regression. [Contribution evidence](docs/PROVENANCE.md)
 
 ## What the study examined
 
