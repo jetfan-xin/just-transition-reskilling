@@ -1,0 +1,4 @@
+artifact_id,source_ids,accuracy,accuracy_plus_minus,auc,auc_plus_minus,f1,f1_plus_minus,status
+final_report,S01;S04,0.645,,0.707,,,,reported_not_reproduced
+saved_32_feature_log,S05,0.432,0.060,0.538,0.057,0.314,0.069,saved_output_not_reproduced
+saved_11_feature_workbook,S06,0.445,0.124,0.557,0.096,0.329,0.101,saved_output_not_reproduced

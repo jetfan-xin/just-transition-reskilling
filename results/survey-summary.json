@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "derived_on": "2026-09-05",
+  "source_id": "S08",
+  "kind": "retrospective_aggregate_check_not_model_rerun",
+  "source_data_rows": 656,
+  "excluded_non_record_rows": 1,
+  "total_records": 655,
+  "eligibility_rule": "Numeric order identifier and exactly one populated scenario rating from 1 to 5; confirms the retained export, not the original survey-cleaning process.",
+  "rating_labels": {
+    "1": "Very unwilling",
+    "2": "Unwilling",
+    "3": "Undecided",
+    "4": "Willing",
+    "5": "Very willing"
+  },
+  "groups": [
+    {
+      "id": "control",
+      "source_field": "sc1",
+      "n": 169,
+      "rating_counts": [
+        7,
+        11,
+        59,
+        41,
+        51
+      ],
+      "willing_n": 92
+    },
+    {
+      "id": "training",
+      "source_field": "sc2",
+      "n": 164,
+      "rating_counts": [
+        15,
+        12,
+        56,
+        31,
+        50
+      ],
+      "willing_n": 81
+    },
+    {
+      "id": "wage_protection",
+      "source_field": "sc3",
+      "n": 158,
+      "rating_counts": [
+        9,
+        11,
+        35,
+        48,
+        55
+      ],
+      "willing_n": 103
+    },
+    {
+      "id": "employment_support",
+      "source_field": "sc4",
+      "n": 164,
+      "rating_counts": [
+        10,
+        9,
+        44,
+        46,
+        55
+      ],
+      "willing_n": 101
+    }
+  ]
+}

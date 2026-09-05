@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-09-05",
+  "study_period": "2022-2023",
+  "sources": [
+    {
+      "id": "S01",
+      "label": "Final research report",
+      "format": "docx",
+      "sha256": "c33ccc1467ab674c3356bfbf2251176b6e30d7233e836696bcbf897ea150d995",
+      "bytes": 587663,
+      "supports": "Study design, reported findings and methods",
+      "redistributed": false
+    },
+    {
+      "id": "S02",
+      "label": "Midterm research report",
+      "format": "pdf",
+      "sha256": "fb91ca3a03f9165b68f255164564c5a1329aa1176af59e26b90d7ac3c6e0fa39",
+      "bytes": 1738632,
+      "supports": "Individual responsibilities, PDF pages 23-24; project context",
+      "redistributed": false
+    },
+    {
+      "id": "S03",
+      "label": "Project timeline",
+      "format": "docx",
+      "sha256": "983a75c9beb2e236f9d643d5a4d4a0de1fd3707d2927444b35f167a4e2f8e8a3",
+      "bytes": 26411,
+      "supports": "Research stages in 2022-2023",
+      "redistributed": false
+    },
+    {
+      "id": "S04",
+      "label": "Random forest methods note",
+      "format": "docx",
+      "sha256": "d1f4ca569120adcd5a07dedc23dd853c44fe9a4728cdeeb314b58046f6cacfa9",
+      "bytes": 52795,
+      "supports": "Reported algorithm and final-report metrics",
+      "redistributed": false
+    },
+    {
+      "id": "S05",
+      "label": "Random forest output log",
+      "format": "txt",
+      "sha256": "e22ec0ac82fcefc8fc9dbcb0a771fd605e0f3f02d97f7a2a6faf1e95e05ae7f9",
+      "bytes": 1291,
+      "supports": "32-feature run and saved evaluation metrics",
+      "redistributed": false
+    },
+    {
+      "id": "S06",
+      "label": "March random forest results workbook",
+      "format": "xlsx",
+      "sha256": "50744f4a359f29bddea8eea246abe5a7419d617a684fb645c57e71bdb7066ff0",
+      "bytes": 43672,
+      "supports": "11-feature run, feature importance and evaluation metrics",
+      "redistributed": false
+    },
+    {
+      "id": "S07",
+      "label": "October survey cleaning rules",
+      "format": "docx",
+      "sha256": "01722323312b4ebea7fd3681874b25371a22eca43a4a9825682c84af7f84ffe8",
+      "bytes": 29084,
+      "supports": "Earlier exclusion rules and manual review flags",
+      "redistributed": false
+    },
+    {
+      "id": "S08",
+      "label": "Merged February survey export",
+      "format": "csv",
+      "sha256": "d9c749579597c4d6b67eaf7320536d820ff7fa224d3637149b62cc674216593d",
+      "bytes": 258375,
+      "supports": "Aggregate validation of four survey arms",
+      "redistributed": false
+    },
+    {
+      "id": "S09",
+      "label": "March control-group analysis export",
+      "format": "csv",
+      "sha256": "63c319d7f02a3be7629aea6572776deb9125dc7175e82874a068b63dcfc7545f",
+      "bytes": 5547,
+      "supports": "153 data rows; outcome encoding requires clarification",
+      "redistributed": false
+    },
+    {
+      "id": "S10",
+      "label": "February control-group analysis export",
+      "format": "csv",
+      "sha256": "7ee2e50068edc57bc8e471ff5a9ee1f8b1c4d7f929c445ea577ffa2c457ef2c2",
+      "bytes": 19295,
+      "supports": "154 data rows; version differs from S09",
+      "redistributed": false
+    }
+  ]
+}
