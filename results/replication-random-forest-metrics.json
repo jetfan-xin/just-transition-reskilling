@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "analysis_type": "deterministic_sensitivity_analysis_not_historical_rerun",
+  "source_id": "S09",
+  "source_sha256": "63c319d7f02a3be7629aea6572776deb9125dc7175e82874a068b63dcfc7545f",
+  "record_count": 153,
+  "feature_count": 11,
+  "features": [
+    "age",
+    "marital",
+    "lns",
+    "educ_year",
+    "un_ins_level",
+    "coal_policy",
+    "ambig_aver",
+    "reason_dis",
+    "reason_earning",
+    "reason_major",
+    "male"
+  ],
+  "target": {
+    "source_field": "w2",
+    "recovered_mapping_to_original_five_point_scale": {
+      "2": 1,
+      "4": 2,
+      "6": 3,
+      "8": 4,
+      "9": 5
+    },
+    "class_counts": {
+      "1": 5,
+      "2": 10,
+      "3": 53,
+      "4": 38,
+      "5": 47
+    }
+  },
+  "validation": {
+    "method": "repeated_stratified_k_fold",
+    "folds": 5,
+    "repeats": 10,
+    "total_splits": 50,
+    "seed": 20230301
+  },
+  "estimator": {
+    "name": "RandomForestClassifier",
+    "n_estimators": 300,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt",
+    "class_weight": "balanced_subsample",
+    "scaling": "none_tree_models_do_not_require_z_score_scaling"
+  },
+  "permutation_importance": {
+    "scoring": "balanced_accuracy",
+    "repeats_per_split": 10,
+    "output": "replication-random-forest-permutation-importance.csv"
+  },
+  "metrics": {
+    "random_forest": {
+      "accuracy": {
+        "mean": 0.446258,
+        "std": 0.074537
+      },
+      "balanced_accuracy": {
+        "mean": 0.336709,
+        "std": 0.064715
+      },
+      "macro_f1": {
+        "mean": 0.33107,
+        "std": 0.070583
+      },
+      "macro_ovr_auc": {
+        "mean": 0.636899,
+        "std": 0.076294
+      }
+    },
+    "most_frequent_baseline": {
+      "accuracy": {
+        "mean": 0.346667,
+        "std": 0.020339
+      },
+      "balanced_accuracy": {
+        "mean": 0.2,
+        "std": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.102904,
+        "std": 0.004506
+      },
+      "macro_ovr_auc": {
+        "mean": 0.5,
+        "std": 0.0
+      }
+    }
+  },
+  "software": {
+    "python": "3.11.14",
+    "numpy": "2.2.6",
+    "scikit_learn": "1.6.1"
+  },
+  "interpretation_limit": "Small non-probability control sample; exploratory association only. Metrics are not directly comparable with the undocumented 2023 runs."
+}

@@ -1,6 +1,5 @@
 {
   "schema_version": 1,
-  "review_date": "2026-09-05",
   "study_period": "2022-2023",
   "sources": [
     {
@@ -46,7 +45,8 @@
       "sha256": "e22ec0ac82fcefc8fc9dbcb0a771fd605e0f3f02d97f7a2a6faf1e95e05ae7f9",
       "bytes": 1291,
       "supports": "32-feature run and saved evaluation metrics",
-      "redistributed": false
+      "redistributed": true,
+      "public_path": "results/legacy-random-forest-output.txt"
     },
     {
       "id": "S06",
@@ -81,7 +81,7 @@
       "format": "csv",
       "sha256": "63c319d7f02a3be7629aea6572776deb9125dc7175e82874a068b63dcfc7545f",
       "bytes": 5547,
-      "supports": "153 data rows; outcome encoding requires clarification",
+      "supports": "153-row model audit input; target mapping recovered through exact matches to S10",
       "redistributed": false
     },
     {

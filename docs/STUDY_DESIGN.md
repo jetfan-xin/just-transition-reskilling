@@ -8,7 +8,7 @@ The 2022–2023 study was an undergraduate team project at Renmin University of 
 
 ## Population and recruitment
 
-The final report describes online recruitment during July–August 2022 through coal-industry contacts in Shaanxi, including workers in Shenmu, Hancheng and Binzhou. Recruitment was through a local contact network, not a probability sample of all Chinese coal workers. The report records 1,016 returned questionnaires and 655 retained responses. The retained sample size and group allocation were independently checked against the merged export in September 2026; the original return total is not fully reconciled. [S01, S08](PROVENANCE.md)
+The final report describes online recruitment during July–August 2022 through coal-industry contacts in Shaanxi, including workers in Shenmu, Hancheng and Binzhou. Recruitment was through a local contact network, not a probability sample of all Chinese coal workers. The report records 1,016 returned questionnaires and 655 retained responses. The retained sample size and group allocation were independently checked against the merged export; the original return total is not fully reconciled. [S01, S08](PROVENANCE.md)
 
 | Stage | Count | Evidence status |
 | --- | ---: | --- |
@@ -41,7 +41,7 @@ The final report describes random assignment through the questionnaire platform,
 2. **Individual determinants:** the control subsample was analysed with ordered logistic regression; random forests provided an exploratory comparison of variable importance.
 3. **Reasons behind decisions:** Chinese free-text responses were examined using tokenisation, TF-IDF, clustering and manual interpretation. The timeline also records seven semi-structured interviews.
 
-The binary outcome means “willing or very willing,” not a claim that every neutral respondent refused training. The separate March modelling file uses a differently coded target; its mapping remains unresolved. [S01, S03, S09](PROVENANCE.md)
+The binary outcome means “willing or very willing,” not a claim that every neutral respondent refused training. The separate March modelling file uses a one-to-one recoding of the same five levels: `w2` values 2, 4, 6, 8 and 9 map to original ratings 1, 2, 3, 4 and 5. The purpose of that irregular encoding is undocumented. [S01, S03, S09, S10](PROVENANCE.md)
 
 ## Timeline
 

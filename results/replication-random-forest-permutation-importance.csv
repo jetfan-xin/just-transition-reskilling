@@ -1,0 +1,12 @@
+rank,feature,mean_balanced_accuracy_decrease,between_split_std,source_id,evidence_status
+1,un_ins_level,0.073953,0.048572,S09,held_out_permutation_audit
+2,coal_policy,0.072632,0.047418,S09,held_out_permutation_audit
+3,age,0.038525,0.050503,S09,held_out_permutation_audit
+4,lns,0.037598,0.046891,S09,held_out_permutation_audit
+5,educ_year,0.015044,0.037377,S09,held_out_permutation_audit
+6,ambig_aver,0.006851,0.037839,S09,held_out_permutation_audit
+7,reason_earning,-0.000322,0.001636,S09,held_out_permutation_audit
+8,male,-0.001200,0.015309,S09,held_out_permutation_audit
+9,marital,-0.006984,0.027075,S09,held_out_permutation_audit
+10,reason_major,-0.007715,0.024205,S09,held_out_permutation_audit
+11,reason_dis,-0.010142,0.021167,S09,held_out_permutation_audit

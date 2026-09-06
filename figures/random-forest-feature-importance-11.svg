@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="770" viewBox="0 0 1200 770" role="img" aria-labelledby="title desc">
+<title id="title">Legacy random-forest feature importance</title>
+<desc id="desc">A horizontal bar chart of eleven impurity-based importance values extracted from the saved workbook.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #172033; }
+.title { font-size: 30px; font-weight: 700; }
+.subtitle { font-size: 16px; fill: #526079; }
+.label { font-size: 16px; }
+.small { font-size: 13px; fill: #526079; }
+.value { font-size: 14px; font-weight: 650; }
+.axis { stroke: #b8c1d1; stroke-width: 1; }
+.grid { stroke: #e7eaf0; stroke-width: 1; }
+</style>
+<text x="50" y="52" class="title">Legacy random-forest importance</text>
+<text x="50" y="81" class="subtitle">11-feature saved workbook · impurity-based importance</text>
+<line x1="420.0" y1="112" x2="420.0" y2="670" class="grid"/>
+<text x="420.0" y="696" text-anchor="middle" class="small">0.00</text>
+<line x1="567.6" y1="112" x2="567.6" y2="670" class="grid"/>
+<text x="567.6" y="696" text-anchor="middle" class="small">0.05</text>
+<line x1="715.2" y1="112" x2="715.2" y2="670" class="grid"/>
+<text x="715.2" y="696" text-anchor="middle" class="small">0.10</text>
+<line x1="862.9" y1="112" x2="862.9" y2="670" class="grid"/>
+<text x="862.9" y="696" text-anchor="middle" class="small">0.15</text>
+<line x1="1010.5" y1="112" x2="1010.5" y2="670" class="grid"/>
+<text x="1010.5" y="696" text-anchor="middle" class="small">0.20</text>
+<text x="50" y="143" class="label">Age</text>
+<rect x="420" y="120" width="562.52" height="31" rx="3" fill="#087f5b"/>
+<text x="992.52" y="142" class="value">0.191</text>
+<text x="50" y="192" class="label">Log savings</text>
+<rect x="420" y="169" width="538.47" height="31" rx="3" fill="#087f5b"/>
+<text x="968.47" y="191" class="value">0.182</text>
+<text x="50" y="241" class="label">Unemployment-insurance awareness</text>
+<rect x="420" y="218" width="405.95" height="31" rx="3" fill="#087f5b"/>
+<text x="835.95" y="240" class="value">0.138</text>
+<text x="50" y="290" class="label">Carbon-policy awareness</text>
+<rect x="420" y="267" width="380.18" height="31" rx="3" fill="#087f5b"/>
+<text x="810.18" y="289" class="value">0.129</text>
+<text x="50" y="339" class="label">Years of education</text>
+<rect x="420" y="316" width="315.57" height="31" rx="3" fill="#087f5b"/>
+<text x="745.57" y="338" class="value">0.107</text>
+<text x="50" y="388" class="label">Ambiguity-aversion score</text>
+<rect x="420" y="365" width="258.62" height="31" rx="3" fill="#5c7c9c"/>
+<text x="688.62" y="387" class="value">0.088</text>
+<text x="50" y="437" class="label">Marital-status encoding</text>
+<rect x="420" y="414" width="131.29" height="31" rx="3" fill="#5c7c9c"/>
+<text x="561.29" y="436" class="value">0.044</text>
+<text x="50" y="486" class="label">Proximity motive</text>
+<rect x="420" y="463" width="115.39" height="31" rx="3" fill="#5c7c9c"/>
+<text x="545.39" y="485" class="value">0.039</text>
+<text x="50" y="535" class="label">Job/major fit motive</text>
+<rect x="420" y="512" width="100.23" height="31" rx="3" fill="#5c7c9c"/>
+<text x="530.23" y="534" class="value">0.034</text>
+<text x="50" y="584" class="label">Gender indicator</text>
+<rect x="420" y="561" width="99.08" height="31" rx="3" fill="#5c7c9c"/>
+<text x="529.08" y="583" class="value">0.034</text>
+<text x="50" y="633" class="label">Earnings motive</text>
+<rect x="420" y="610" width="45.06" height="31" rx="3" fill="#5c7c9c"/>
+<text x="475.06" y="632" class="value">0.015</text>
+<text x="50" y="738" class="small">Directly extracted from S06; ranking is exploratory and does not establish causality.</text>
+</svg>

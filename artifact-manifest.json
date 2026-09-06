@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "artifacts": [
+    {
+      "path": "results/legacy-random-forest-output.txt",
+      "sha256": "e22ec0ac82fcefc8fc9dbcb0a771fd605e0f3f02d97f7a2a6faf1e95e05ae7f9",
+      "source_ids": ["S05"],
+      "derivation": "byte_for_byte_copy",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "figures/legacy-random-forest-feature-importance-11.png",
+      "sha256": "c947c605450dc54b5c0db54149c48f87840095d34129f4e074b9c696be8ebb38",
+      "source_ids": ["S06"],
+      "derivation": "exact_package_member:xl/media/image1.png",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "figures/legacy-policy-awareness-boxplot.png",
+      "sha256": "5e8883b42d89079c40d1629f2c5dd2a4971330ceea6b756aa27c81e01d0448c8",
+      "source_ids": ["S01"],
+      "derivation": "exact_package_member:word/media/image2.png",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "figures/legacy-positive-reasons-wordcloud.png",
+      "sha256": "40c744862b06b4130bb82e742e2357fb69025df8c68673031da4f6fe25e37f21",
+      "source_ids": ["S01"],
+      "derivation": "exact_package_member:word/media/image3.png",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "figures/legacy-negative-reasons-wordcloud.png",
+      "sha256": "ac4ecfc1df0c3d790738a43ae1457c11478cbc1a579f3f54c6b068773310ac4e",
+      "source_ids": ["S01"],
+      "derivation": "exact_package_member:word/media/image4.png",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "results/random-forest-feature-importance-11.csv",
+      "sha256": "8e9dfb34d705a6798f49b5800c05576a15898014712dcd2e4a95847000a44d11",
+      "source_ids": ["S06"],
+      "derivation": "workbook_cell_extraction",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "results/open-text-reason-categories.csv",
+      "sha256": "a0a3c301873b03741d340f52c25dd84feda0fc0f420444cbb2057834d5cad32c",
+      "source_ids": ["S01"],
+      "derivation": "cached_chart_extraction_with_english_translations",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "results/survey-summary.json",
+      "sha256": "792edde3ddb6950ef597d6ec36e48a46e9d80c2496a310589ad632be91a06ff9",
+      "source_ids": ["S08"],
+      "derivation": "aggregate_count_reconstruction",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "results/replication-random-forest-metrics.json",
+      "sha256": "e11cd7399c80811363d98521a36e1fe5936c5022828189dd013c8a9395e646ac",
+      "source_ids": ["S09"],
+      "derivation": "deterministic_sensitivity_analysis",
+      "contains_respondent_rows": false
+    },
+    {
+      "path": "results/replication-random-forest-permutation-importance.csv",
+      "sha256": "d27163ae484baeba135ff9509753312322cd156ac1ce9517409a4cb1ff6c6ae3",
+      "source_ids": ["S09"],
+      "derivation": "held_out_permutation_importance",
+      "contains_respondent_rows": false
+    }
+  ],
+  "generated_figures": {
+    "command": "python3 scripts/build_figures.py",
+    "paths": [
+      "figures/scenario-willingness.svg",
+      "figures/random-forest-feature-importance-11.svg",
+      "figures/open-text-positive-reasons.svg",
+      "figures/open-text-negative-reasons.svg",
+      "figures/replication-permutation-importance.svg"
+    ]
+  }
+}

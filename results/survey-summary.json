@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "derived_on": "2026-09-05",
   "source_id": "S08",
+  "source_sha256": "d9c749579597c4d6b67eaf7320536d820ff7fa224d3637149b62cc674216593d",
   "kind": "retrospective_aggregate_check_not_model_rerun",
   "source_data_rows": 656,
   "excluded_non_record_rows": 1,

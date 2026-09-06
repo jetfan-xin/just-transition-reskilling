@@ -1,0 +1,27 @@
+group,rank,category_zh,category_en,count,group_total,share,source_id,extraction_method
+willing,1,发展前景好,Good development prospects,43,122,0.352459,S01,chart9_cached_series
+willing,2,国家号召、未来所趋,National policy direction and future trend,15,122,0.122951,S01,chart9_cached_series
+willing,3,更高的收入,Higher income,13,122,0.106557,S01,chart9_cached_series
+willing,4,稳定的收入和工作,Stable income and employment,10,122,0.081967,S01,chart9_cached_series
+willing,5,积极面对挑战,Willingness to face change and challenge,10,122,0.081967,S01,chart9_cached_series
+willing,6,学习新知，提高自身能力,Learning new skills and self-improvement,9,122,0.073770,S01,chart9_cached_series
+willing,7,节能环保,Energy conservation and environmental protection,6,122,0.049180,S01,chart9_cached_series
+willing,8,更好的福利待遇,Better benefits,4,122,0.032787,S01,chart9_cached_series
+willing,9,更好的个人生活,Better quality of life,3,122,0.024590,S01,chart9_cached_series
+willing,10,看好创新,Confidence in innovation,2,122,0.016393,S01,chart9_cached_series
+willing,11,改善工作环境,Better working conditions,2,122,0.016393,S01,chart9_cached_series
+willing,12,其他,Other,5,122,0.040984,S01,chart9_cached_series
+not_willing,1,转行期间无收入，没有生活保障,No income or living security during transition,13,88,0.147727,S01,chart10_cached_series
+not_willing,2,行业发展和待遇不明朗,Uncertain industry prospects and pay,11,88,0.125000,S01,chart10_cached_series
+not_willing,3,不了解新能源行业,Unfamiliarity with renewable energy,10,88,0.113636,S01,chart10_cached_series
+not_willing,4,年龄大,Older age,8,88,0.090909,S01,chart10_cached_series
+not_willing,5,转行浪费时间精力,Switching costs in time and effort,6,88,0.068182,S01,chart10_cached_series
+not_willing,6,自身文化程度低,Limited formal education,5,88,0.056818,S01,chart10_cached_series
+not_willing,7,哪里赚钱、待遇好就去哪里,Preference for the best-paying available work,5,88,0.056818,S01,chart10_cached_series
+not_willing,8,当前工作稳定,Current job is stable,5,88,0.056818,S01,chart10_cached_series
+not_willing,9,通勤困难,Commuting difficulty,4,88,0.045455,S01,chart10_cached_series
+not_willing,10,不喜欢,Lack of interest,3,88,0.034091,S01,chart10_cached_series
+not_willing,11,专业不对口,Skills or major mismatch,3,88,0.034091,S01,chart10_cached_series
+not_willing,12,担心收入下降,Concern about lower income,3,88,0.034091,S01,chart10_cached_series
+not_willing,13,转行影响照顾孩子,Transition would disrupt childcare,2,88,0.022727,S01,chart10_cached_series
+not_willing,14,其他,Other,10,88,0.113636,S01,chart10_cached_series

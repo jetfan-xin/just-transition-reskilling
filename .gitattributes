@@ -1,0 +1,2 @@
+# Preserve the archived console log byte-for-byte and suppress whitespace rewrites.
+results/legacy-random-forest-output.txt binary

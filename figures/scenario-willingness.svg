@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Willingness by policy scenario</title>
+<desc id="desc">Four stacked bars show response distributions from very unwilling to very willing.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #172033; }
+.title { font-size: 30px; font-weight: 700; }
+.subtitle { font-size: 16px; fill: #526079; }
+.label { font-size: 16px; }
+.small { font-size: 13px; fill: #526079; }
+.value { font-size: 14px; font-weight: 650; }
+.axis { stroke: #b8c1d1; stroke-width: 1; }
+.grid { stroke: #e7eaf0; stroke-width: 1; }
+</style>
+<text x="60" y="55" class="title">Willingness by policy scenario</text>
+<text x="60" y="84" class="subtitle">Verified five-point responses; n = 655</text>
+<rect x="60" y="110" width="16" height="16" rx="2" fill="#b42318"/>
+<text x="82" y="123" class="small">1</text>
+<rect x="133" y="110" width="16" height="16" rx="2" fill="#e66a4e"/>
+<text x="155" y="123" class="small">2</text>
+<rect x="206" y="110" width="16" height="16" rx="2" fill="#d9dee8"/>
+<text x="228" y="123" class="small">3</text>
+<rect x="279" y="110" width="16" height="16" rx="2" fill="#4fa58b"/>
+<text x="301" y="123" class="small">4</text>
+<rect x="352" y="110" width="16" height="16" rx="2" fill="#087f5b"/>
+<text x="374" y="123" class="small">5</text>
+<text x="442" y="123" class="small">1 = very unwilling · 5 = very willing</text>
+<text x="60" y="200" class="label">Policy background</text>
+<text x="60" y="223" class="small">n = 169</text>
+<rect x="285.00" y="176" width="29.82" height="48" fill="#b42318"/>
+<rect x="314.82" y="176" width="46.86" height="48" fill="#e66a4e"/>
+<text x="338.25" y="206" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">7%</text>
+<rect x="361.69" y="176" width="251.36" height="48" fill="#d9dee8"/>
+<text x="487.37" y="206" text-anchor="middle" class="value" fill="#172033" style="fill:#172033">35%</text>
+<rect x="613.05" y="176" width="174.67" height="48" fill="#4fa58b"/>
+<text x="700.38" y="206" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">24%</text>
+<rect x="787.72" y="176" width="217.28" height="48" fill="#087f5b"/>
+<text x="896.36" y="206" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">30%</text>
+<text x="1030" y="198" class="value">54.4%</text>
+<text x="1030" y="219" class="small">ratings 4–5</text>
+<text x="60" y="305" class="label">Training</text>
+<text x="60" y="328" class="small">n = 164</text>
+<rect x="285.00" y="281" width="65.85" height="48" fill="#b42318"/>
+<text x="317.93" y="311" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">9%</text>
+<rect x="350.85" y="281" width="52.68" height="48" fill="#e66a4e"/>
+<text x="377.20" y="311" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">7%</text>
+<rect x="403.54" y="281" width="245.85" height="48" fill="#d9dee8"/>
+<text x="526.46" y="311" text-anchor="middle" class="value" fill="#172033" style="fill:#172033">34%</text>
+<rect x="649.39" y="281" width="136.10" height="48" fill="#4fa58b"/>
+<text x="717.44" y="311" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">19%</text>
+<rect x="785.49" y="281" width="219.51" height="48" fill="#087f5b"/>
+<text x="895.24" y="311" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">30%</text>
+<text x="1030" y="303" class="value">49.4%</text>
+<text x="1030" y="324" class="small">ratings 4–5</text>
+<text x="60" y="410" class="label">Wage protection</text>
+<text x="60" y="433" class="small">n = 158</text>
+<rect x="285.00" y="386" width="41.01" height="48" fill="#b42318"/>
+<rect x="326.01" y="386" width="50.13" height="48" fill="#e66a4e"/>
+<text x="351.08" y="416" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">7%</text>
+<rect x="376.14" y="386" width="159.49" height="48" fill="#d9dee8"/>
+<text x="455.89" y="416" text-anchor="middle" class="value" fill="#172033" style="fill:#172033">22%</text>
+<rect x="535.63" y="386" width="218.73" height="48" fill="#4fa58b"/>
+<text x="645.00" y="416" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">30%</text>
+<rect x="754.37" y="386" width="250.63" height="48" fill="#087f5b"/>
+<text x="879.68" y="416" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">35%</text>
+<text x="1030" y="408" class="value">65.2%</text>
+<text x="1030" y="429" class="small">ratings 4–5</text>
+<text x="60" y="515" class="label">Employment support</text>
+<text x="60" y="538" class="small">n = 164</text>
+<rect x="285.00" y="491" width="43.90" height="48" fill="#b42318"/>
+<rect x="328.90" y="491" width="39.51" height="48" fill="#e66a4e"/>
+<rect x="368.41" y="491" width="193.17" height="48" fill="#d9dee8"/>
+<text x="465.00" y="521" text-anchor="middle" class="value" fill="#172033" style="fill:#172033">27%</text>
+<rect x="561.59" y="491" width="201.95" height="48" fill="#4fa58b"/>
+<text x="662.56" y="521" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">28%</text>
+<rect x="763.54" y="491" width="241.46" height="48" fill="#087f5b"/>
+<text x="884.27" y="521" text-anchor="middle" class="value" fill="#ffffff" style="fill:#ffffff">34%</text>
+<text x="1030" y="513" class="value">61.6%</text>
+<text x="1030" y="534" class="small">ratings 4–5</text>
+<line x1="285.0" y1="590" x2="285.0" y2="600" class="axis"/>
+<text x="285.0" y="622" text-anchor="middle" class="small">0%</text>
+<line x1="429.0" y1="590" x2="429.0" y2="600" class="axis"/>
+<text x="429.0" y="622" text-anchor="middle" class="small">20%</text>
+<line x1="573.0" y1="590" x2="573.0" y2="600" class="axis"/>
+<text x="573.0" y="622" text-anchor="middle" class="small">40%</text>
+<line x1="717.0" y1="590" x2="717.0" y2="600" class="axis"/>
+<text x="717.0" y="622" text-anchor="middle" class="small">60%</text>
+<line x1="861.0" y1="590" x2="861.0" y2="600" class="axis"/>
+<text x="861.0" y="622" text-anchor="middle" class="small">80%</text>
+<line x1="1005.0" y1="590" x2="1005.0" y2="600" class="axis"/>
+<text x="1005.0" y="622" text-anchor="middle" class="small">100%</text>
+<line x1="285" y1="590" x2="1005" y2="590" class="axis"/>
+<text x="60" y="667" class="small">Descriptive shares only; scenarios were cumulative bundles and the outcome was stated willingness.</text>
+</svg>

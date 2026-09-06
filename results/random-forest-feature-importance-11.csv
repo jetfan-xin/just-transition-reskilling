@@ -1,0 +1,12 @@
+rank,feature,importance,source_id,evidence_status
+1,age,0.190532,S06,saved_workbook_output
+2,lns,0.182386,S06,saved_workbook_output
+3,un_ins_level,0.137500,S06,saved_workbook_output
+4,coal_policy,0.128772,S06,saved_workbook_output
+5,educ_year,0.106886,S06,saved_workbook_output
+6,ambig_aver,0.087598,S06,saved_workbook_output
+7,marital,0.044470,S06,saved_workbook_output
+8,reason_dis,0.039085,S06,saved_workbook_output
+9,reason_major,0.033948,S06,saved_workbook_output
+10,male,0.033560,S06,saved_workbook_output
+11,reason_earning,0.015262,S06,saved_workbook_output

@@ -1,0 +1,38 @@
+Accuracy: 0.432 +/- 0.060
+AUC: 0.538 +/- 0.057
+F1: 0.314 +/- 0.069
+               Feature  Importance
+24         Coal_policy    0.078227
+5         Years_of_emp    0.074570
+29                 Age    0.074479
+6               Saving    0.069827
+7        Revenue_month    0.065182
+17        Un_ins_level    0.063920
+19        Health_level    0.057174
+31     Revenue_famyear    0.051715
+18       Cor_ern_level    0.047141
+2            Educ_year    0.044341
+8          Revenue_per    0.038046
+30          Realestate    0.035620
+4            Fertility    0.029401
+3              Marital    0.023770
+1              Agricul    0.019721
+21    Healthcmp_better    0.017733
+26                Sc_2    0.016822
+25                Sc_1    0.015503
+27                Sc_3    0.015469
+12        Reason_major    0.015467
+20     Healthcmp_worse    0.015444
+9      Employee_former    0.015089
+0                 Male    0.015027
+15          Reason_dis    0.014247
+14       Reason_family    0.013940
+28                Sc_4    0.013756
+16     Insurance_dummy    0.013562
+10  Employee_temporary    0.012755
+11     Employee_atwill    0.010662
+23              Injury    0.008410
+13      Reason_earning    0.007340
+22     Chronic_disease    0.005638
+
+进程已结束,退出代码0

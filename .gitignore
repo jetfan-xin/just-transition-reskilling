@@ -2,17 +2,26 @@
 __pycache__/
 *.py[cod]
 .venv/
+.ruff_cache/
+.pytest_cache/
 .env
 .env.*
+
+# The research archive contains respondent-level and administrative records.
+# Public, aggregate outputs are committed explicitly under results/.
+private/
+raw/
+data/raw/
+data/private/
 private-source-index.json
 *source-index*.json
-raw/
-private/
-*.xlsx
-*.xls
-*.docx
 *.doc
+*.docx
+*.xls
+*.xlsx
 *.pdf
+*.sav
+*.dta
 *.zip
 *.rar
 *.m4a
