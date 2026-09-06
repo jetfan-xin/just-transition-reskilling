@@ -1,10 +1,10 @@
-# Just-Transition Reskilling Study
+# Coal Workers' Willingness to Retrain for Renewable-Energy Jobs
 
-### What shapes coal workers' willingness to retrain for renewable-energy jobs?
+### Survey design, quantitative analysis and findings from a 2022–2023 undergraduate study
 
 [![Verify public research artifacts](https://github.com/jetfan-xin/just-transition-reskilling/actions/workflows/verify.yml/badge.svg)](https://github.com/jetfan-xin/just-transition-reskilling/actions/workflows/verify.yml)
 
-An energy transition is also a workforce transition. This undergraduate research project examined how training support, income security and employment prospects relate to coal workers' stated willingness to move into renewable-energy work.
+An energy transition is also a workforce transition. This undergraduate research project examined how training support, income security and employment prospects relate to coal workers' stated willingness to retrain for renewable-energy jobs.
 
 Conducted at **Renmin University of China in 2022–2023**, the team combined a four-arm online survey experiment with regression analysis, exploratory random forests and analysis of workers' written responses. The retained dataset contains **655 valid responses** from coal workers in Shaanxi, China.
 
